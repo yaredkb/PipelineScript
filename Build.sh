@@ -1,3 +1,3 @@
-echo "Building the Project :date +'%d/%m/%Y %H:%M:%S'
-"
+echo "Building the Project :"date +'%d/%m/%Y %H:%M:%S'
+
 
