@@ -1,3 +1,2 @@
-//echo Building the Project : %date% : %time%
-'Building the Project : date +%H:%M:%S'
+echo "Building the Project : %date% : %time%"
 date +%H:%M:%Sdate +'%d/%m/%Y %H:%M:%S
