@@ -1,1 +1,1 @@
-echo "Deploying Build : "     date +"%r"
+echo "Deploying Build : "    $ date +"%r"
